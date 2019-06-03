@@ -119,8 +119,7 @@ return [
     |
     */
 
-    'key' => env('APP_KEY'),
-    'key' => env('APP_KEY', 'itch-papeleria-AJL'),
+    'key' => env('APP_KEY','itch-papeeria-AJL-itch-papel-AJL'),
 
     'cipher' => 'AES-256-CBC',
 
